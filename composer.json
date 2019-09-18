@@ -1,0 +1,19 @@
+{
+    "name": "liuchaofu/hello-word",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ChaoFu Liu",
+            "email": "j@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    }
+}
